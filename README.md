@@ -1,2 +1,2 @@
-# Typography-by-Building-a-nutrition-Label
-Typography by Building a nutrition Label in freecodecamp.
+# Typography-by-Building-a-Nutrition-Label
+Typography by Building a Nutrition Label in freecodecamp.
